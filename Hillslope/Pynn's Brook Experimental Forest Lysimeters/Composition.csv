@@ -1,0 +1,21 @@
+﻿Measurement,Abbreviation,Units
+Spectral slope 275-295 nm,LMW,nm-1
+Spectral slope 350-400 nm,HMW,nm-1
+Spectral slope ratio (LMW:HMW),SR,
+Specific UV Absorbance at 254 nm,SUVA,m L mg C-1
+Dissolved Organic Carbon,DOC,mg C L-1
+Total Dissolved Nitrogen,TDN,mg N L-1
+Dissolved Organic Nitrogen,DON,mg N L-1
+Soluble Reactive Phosphate,SRP,mg PO4 L-1
+Collection Period,,days
+Flux,,g m-2
+Flux Rate,,g m-2 d-1
+,,
+Treatment:,,
+Forested,F,
+Harvested,H,
+Season:,,
+Winter,W,
+Spring/Snowmelt,M,
+Summer,S,
+Autumn,A,
